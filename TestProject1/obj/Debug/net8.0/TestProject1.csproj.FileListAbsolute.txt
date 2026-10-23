@@ -177,3 +177,4 @@ C:\Users\User\Desktop\SeleniumWebDriver\TestProject1\obj\Debug\net8.0\refint\Tes
 C:\Users\User\Desktop\SeleniumWebDriver\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 C:\Users\User\Desktop\SeleniumWebDriver\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\User\Desktop\SeleniumWebDriver\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+C:\Users\User\Desktop\SeleniumWebDriver\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
